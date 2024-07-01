@@ -1,2 +1,3 @@
 Hello
+trying push command
 Trying git pull command
