@@ -1,3 +1,2 @@
 Hello
-Update
 Trying git pull command
